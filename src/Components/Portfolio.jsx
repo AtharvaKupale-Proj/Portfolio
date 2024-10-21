@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Web Development",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Web development refers to the creation and maintenance of websites, including the structure (HTML), design (CSS), and functionality (JavaScript) of web pages. It encompasses both front-end (user-facing) and back-end (server-side) development.",
+    url: "https://www.geeksforgeeks.org/web-development/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "HTML & CSS",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "HTML (HyperText Markup Language) structures the content of web pages by using elements like headings, paragraphs, and images. CSS (Cascading Style Sheets) is used to style and layout these HTML elements, controlling things like colors, fonts, and spacing.",
+    url: "https://www.w3schools.com/html/html_css.asp",
   },
   {
-    title: "My Resume Site",
+    title: "Frontend Development",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A Frontend Developer is responsible for creating the user interface and experience of a website or web application using HTML, CSS, and JavaScript. They ensure that the design is responsive, interactive, and visually appealing across various devices and browsers.",
+    url: "https://www.w3schools.com/whatis/whatis_frontenddev.asp",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Projects",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Key areas such as front-end technologies, responsive designs, and creative problem-solving through interactive, user-friendly interfaces.",
+    url: "https://github.com/AtharvaKupale-Proj",
   },
 ];
 
